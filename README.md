@@ -1,0 +1,2 @@
+# SAM-Configuration
+SAM Configurations
